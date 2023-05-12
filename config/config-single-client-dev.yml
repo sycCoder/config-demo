@@ -1,3 +1,6 @@
+server:
+  port: 3302
+
 data:
   env: localhost-dev-edit888
   user:
