@@ -7,9 +7,9 @@ spring:
     name: user-service
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/dewu
     username: root
-    password: syc8326190
+    password: 123456
+    url: jdbc:mysql://localhost:8066/dewu
 # eureka
 eureka:
   client:
